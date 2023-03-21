@@ -1,0 +1,44 @@
+
+
+input, .btn{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 23px;
+}
+
+.container{
+    background-color: bisque;
+    width: 80%;
+    margin: auto;
+    margin-top: 6%;
+    padding: 5px;
+}
+
+
+label{
+    display: block;
+}
+
+header>h2{
+    text-align: center;
+}
+
+form {
+    width: 70%;
+    margin: auto;
+}
+
+#msgContainer{
+    display: flex;
+}
+
+#roomAnduser{
+    width: 30%;
+    background-color: aliceblue;
+}
+
+.chat_msg{
+    width: 70%;
+    background-color: antiquewhite;
+}
+
